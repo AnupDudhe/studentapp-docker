@@ -50,6 +50,6 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 
 # Environment variables (no localhost)
 #ENV DB_URL=jdbc:mariadb://database-1.c5g2e4cuwxef.ap-south-1.rds.amazonaws.com:3306/student_db \
-    DB_USERNAME=admin
+    #DB_USERNAME=admin
 
 #ENTRYPOINT ["java", "-jar", "app.jar"]
